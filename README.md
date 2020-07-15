@@ -1,5 +1,5 @@
 # MarketRisk
-In this repository, I analyze market risk using VAR 
+In this repository, I analyze market risk using VAR and implementing Python script.
 
 Learning material:
 - Python for Finance, 2nd Edition, by Yves Hilpisch (O’Reilly).
